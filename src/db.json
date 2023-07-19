@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hello World",
+            "author": "RR",
+            "body": "Blog 1"
+        },
+        {
+            "id": 2,
+            "title": "Hello Again",
+            "author": "John Doe",
+            "body": "Blog 2"
+        }
+    ]
+}
